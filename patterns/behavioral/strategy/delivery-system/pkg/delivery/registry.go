@@ -1,0 +1,3 @@
+package delivery
+
+// # Реестр стратегий
